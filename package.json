@@ -1,0 +1,25 @@
+{
+  "name": "spreadsheettesting",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000p\u0000r\u0000e\u0000a\u0000d\u0000S\u0000h\u0000e\u0000e\u0000t\u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000#\u0000 \u0000S\u0000p\u0000r\u0000e\u0000a\u0000d\u0000S\u0000h\u0000e\u0000e\u0000t\u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000#\u0000 \u0000S\u0000p\u0000r\u0000e\u0000a\u0000d\u0000S\u0000h\u0000e\u0000e\u0000t\u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000\r\u0000 \u0000#\u0000 \u0000C\u0000S\u0000G\u0000O\u0000S\u0000p\u0000r\u0000e\u0000a\u0000d\u0000S\u0000h\u0000e\u0000e\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-SeaCow/CSGOSpreadSheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-SeaCow/CSGOSpreadSheet/issues"
+  },
+  "homepage": "https://github.com/Mr-SeaCow/CSGOSpreadSheet#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "excel4node": "^1.7.2",
+    "steam-api": "^1.1.3",
+    "steamapi": "^2.0.7"
+  }
+}
